@@ -1,0 +1,21 @@
+no|action|value1|set1|value2|set2|person|text
+0|1|1. Start Game|1|2. Exit game|-1||
+1|7|1|||||
+2|3|1.png||10||Mamojiro|
+3|6|mm.jpg|||||
+4|7|0|||||
+5|8|wq.mp3|||||
+6|0|2||||Mamojiro|<b> What are we going to do? </b>
+7|0|1||||Keibei|Lets go for ice cream
+8|0|2||||Keibei|<h1> Chocolate flavour !!! </h1>
+9|0|1||||Mamojiro|Great idea!
+10|4|300||||Mamojiro|
+11|1|1. Soft serve|12|2. On stick|14||
+12|0|1||||Mamojiro|Do you know great ice cream place?
+13|0|1||||Keibei|<b><i> Of course, let’s go! </b></i>
+14|2|18|||||
+15|0|1||||Muneshi|Which shop?
+16|0|1||||Keibel|I have seen one on in another corner, they have interesting ice creams over there!
+17|0|1||||Keibel|Then lets go!
+18|9||||||
+19|2|0|||||
